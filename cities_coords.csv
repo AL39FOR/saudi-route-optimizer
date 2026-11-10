@@ -1,0 +1,35 @@
+﻿city_ar,query,lat,lon,display_name,approved,source_url
+أبها,"Abha, Saudi Arabia",18.2164282,42.5043596,"Abha, 'Asir Province, 26442, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Abha%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+أشيقر,"Ushayqir, Saudi Arabia",25.3391370,45.1785527,"Ushayqir, Shaqra, Riyadh Region, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Ushayqir%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+الباحة,"Al Bahah, Saudi Arabia",20.0138,41.4656,Al Bahah city (OSM),YES,https://www.openstreetmap.org/node/295921642
+الجبيل,"Jubail, Saudi Arabia",27.0006968,49.6532161,"Al Jubayl, Al Jubayl Governorate, Eastern Province, 35514, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Jubail%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+الخبر,"Al Khobar, Saudi Arabia",26.3039999,50.1960237,"Al Khobar, Khobar Governorate, Eastern Province, 34436, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Al+Khobar%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+الخرج,"Al Kharj, Saudi Arabia",24.15541,47.33457,Al Kharj city,YES,https://www.geonames.org/109353
+الدمام,"Dammam, Saudi Arabia",26.4367824,50.1039991,"Dammam, Dammam Governorate, Eastern Province, 32242, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Dammam%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+الرياض,"Riyadh, Saudi Arabia",24.6389160,46.7160104,"Riyadh, Riyadh governorate, Riyadh Region, 12643, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Riyadh%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+الطائف,"Taif, Saudi Arabia",21.2702801,40.4158308,"At Ta'if, Al Taif, Makkah Region, 26511, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Taif%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+القنفذة,"Al Qunfudhah, Saudi Arabia",19.1264288,41.0788747,"Al Qunfudhah, Makkah Region, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Al+Qunfudhah%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+القويعية,"Al Quwayiyah, Saudi Arabia",24.0650560,45.2843810,"Al Quwayiyah, Riyadh Region, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Al+Quwayiyah%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+المدينة المنورة,"Medina, Saudi Arabia",24.4711530,39.6111216,"Medina, Al Madinah Al Munawwarah, Medina Province, 41419, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Medina%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+النماص,"Al Namas, Saudi Arabia",19.14547,42.12009,"An Nimas, Asir",YES,https://www.geonames.org/108617
+الهفوف,"Al Hofuf, Saudi Arabia",25.3696585,49.5865224,"Al-Hofuf, Al Ahsa Governorate, Eastern Province, 36361-7365, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Al+Hofuf%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+بريدة,"Buraydah, Saudi Arabia",26.3316670,43.9716670,"Buraydah, Al-Qassim Province, 52354, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Buraydah%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+بيشة,"Bisha, Saudi Arabia",20.000538,42.605203,"Bisha city, GeoNames",YES,https://www.geonames.org/103369/bisha.html
+تبوك,"Tabuk, Saudi Arabia",28.399804,36.571505,"Tabuk city, GeoNames",YES,https://www.geonames.org/101628/tabuk.html
+تثليث,"Tathlith, Saudi Arabia",19.5296851,43.5303161,"Tathlith, 'Asir Province, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Tathlith%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+جازان,"Jazan, Saudi Arabia",16.8891667,42.5511111,جازان - verified city location,YES,https://www.geonames.org/105299/jizan.html
+جدة,"Jeddah, Saudi Arabia",21.5504432,39.1742363,"Jeddah, Governorate of Jeddah, Makkah Region, 23124, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Jeddah%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+حائل,"Hail, Saudi Arabia",27.521876,41.690732,حائل - verified city location,YES,https://www.geonames.org/106281/ha-il.html
+حفر الباطن,"Hafar Al Batin, Saudi Arabia",28.4328084,45.9627527,"Hafar Al-Batin, Hafar Al Batin Governorate, Eastern Province, 39956, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Hafar+Al+Batin%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+خميس مشيط,"Khamis Mushait, Saudi Arabia",18.3000000,42.7333330,"Khamis Mushayt, 'Asir Province, 62411, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Khamis+Mushait%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+سكاكا,"Sakakah, Saudi Arabia",29.9784008,40.2047701,"Sakaka, Al Jawf Region, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Sakakah%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+شقراء,"Shaqra, Saudi Arabia",25.2483330,45.2527780,"Shaqra, Riyadh Region, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Shaqra%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+عفيف,"Afif, Saudi Arabia",23.9023697,42.9150847,"Afif, Riyadh Region, 00966, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Afif%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+مكة المكرمة,"Mecca, Saudi Arabia",21.4208470,39.8268690,"Makkah Al Mukarramah, Makkah Region, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Mecca%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+وادي الدواسر,"Wadi ad Dawasir, Saudi Arabia",20.4602516,44.7995530,"Wadi Ad Dawasir, Riyadh Region, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Wadi+ad+Dawasir%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+ينبع,"Yanbu, Saudi Arabia",24.0890190,38.0687076,"Yanbu`, Yanbu, Medina Province, 46424, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Yanbu%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+الرين,"Al Rayn, Saudi Arabia",23.5406188,45.5108048,"Ar Rayn, Riyadh Region, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Al+Rayn%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+ضرما,"Dhurma, Saudi Arabia",24.595510,46.133740,ضرما - city reference,YES,https://mapcarta.com/12559352
+حريملاء,"Huraymila, Saudi Arabia",25.1266670,46.1225000,"Huraymila, Riyadh Region, 13387, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Huraymila%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
+المجمعة,"Al Majmaah, Saudi Arabia",25.903890,45.345560,المجمعة - city reference,YES,https://mapcarta.com/12564066
+الدوادمي,"Ad Dawadimi, Saudi Arabia",24.4941670,44.3833330,"Ad Dawadimi, Ad Duwadimi, Riyadh Region, Saudi Arabia",YES,https://nominatim.openstreetmap.org/search?q=Ad+Dawadimi%2C+Saudi+Arabia&format=jsonv2&limit=5&addressdetails=1&countrycodes=sa
